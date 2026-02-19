@@ -38,8 +38,8 @@ I'm a passionate developer focused on **AI Agents, Automation, and Full Stack De
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bibhupradhanofficial&show_icons=true&theme=radical" alt="Bibhu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibhupradhanofficial&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bibhupradhanofficial&show_icons=true&theme=radical" alt="Bibhu's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bibhupradhanofficial&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <div align="center">
